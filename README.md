@@ -1,2 +1,2 @@
-# studious-waddle
+# LegacyToNext
 Just an ordinary repo
