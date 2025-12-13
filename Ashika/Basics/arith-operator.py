@@ -1,0 +1,10 @@
+print(10+3)
+print(10-4)
+print(10*2)
+print(10/3)
+print(10//3)
+print(10%3)
+print(10**3)
+x=10
+x+=1
+print(x)
