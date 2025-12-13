@@ -1,0 +1,5 @@
+a=(1,2,3)
+b=list(a)
+print(a)
+b.append(20)
+print(b)
