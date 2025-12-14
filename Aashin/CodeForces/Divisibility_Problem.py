@@ -1,4 +1,7 @@
 n = int(input())
 for i in range(n):
 	a,b = map(int,input().split())
-	print(a-(a//b)*b)
+	if(a%b==0):
+		print(0)
+	else:
+		print(b-(a%b))
