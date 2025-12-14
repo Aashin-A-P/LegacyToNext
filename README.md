@@ -1,8 +1,5 @@
-# LegacyToNext
+## 👥 Contributors
 
-## 👥 Contributors & Commit Statistics
+Contributor and commit statistics are maintained automatically by GitHub.
 
-> This section is automatically updated using GitHub Actions based on repository activity.
-
-<!-- CONTRIBUTORS-START -->
-<!-- CONTRIBUTORS-END -->
+👉 https://github.com/Aashin-A-P/LegacyToNext/graphs/contributors
