@@ -1,0 +1,19 @@
+name: Update Contributors
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  contributors:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update contributors table
+        uses: akhilmhdh/contributors-readme-action@v2.3.6
+        with:
+          repository: ${{ github.repository }}
+          readme_path: README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
