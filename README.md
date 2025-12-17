@@ -3,7 +3,12 @@
 ![Last Commit](https://img.shields.io/github/last-commit/Aashin-A-P/LegacyToNext)
 ![Issues](https://img.shields.io/github/issues/Aashin-A-P/LegacyToNext)
 ![Repo Size](https://img.shields.io/github/repo-size/Aashin-A-P/LegacyToNext)
+![Code Size](https://img.shields.io/github/languages/code-size/Aashin-A-P/LegacyToNext)
 ![Stars](https://img.shields.io/github/stars/Aashin-A-P/LegacyToNext)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Aashin-A-P/LegacyToNext)
+![GitHub commits](https://img.shields.io/github/commit-activity/y/Aashin-A-P/LegacyToNext)
+![Contributors](https://img.shields.io/github/contributors/Aashin-A-P/LegacyToNext)
+
 
 ---
 
@@ -32,7 +37,5 @@ This is a **joint initiative** where senior guides juniors by:
 ---
 👉 https://github.com/Aashin-A-P/LegacyToNext/graphs/contributors
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Aashin-A-P/LegacyToNext)
 
-![GitHub commits](https://img.shields.io/github/commit-activity/y/Aashin-A-P/LegacyToNext)
 
