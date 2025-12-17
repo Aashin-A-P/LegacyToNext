@@ -11,7 +11,7 @@
 
 **LegacyToNext** is a **mentorship-driven learning repository** created to help **juniors prepare for placements and internships** through **strong fundamentals in Python and Data Structures & Algorithms (DSA)**.
 
-This is a **joint initiative** where seniors guide juniors by:
+This is a **joint initiative** where senior guides juniors by:
 - Sharing structured learning material
 - Reviewing code
 - Encouraging consistent practice
@@ -55,3 +55,9 @@ This is a **joint initiative** where seniors guide juniors by:
 - Greedy Algorithms
 - Dynamic Programming
 - Graph Algorithms
+
+## 🏆 Weekly Top Contributors
+
+<!-- WEEKLY_LEADERBOARD_START -->
+<!-- WEEKLY_LEADERBOARD_END -->
+

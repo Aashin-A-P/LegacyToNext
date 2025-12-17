@@ -1,0 +1,30 @@
+name: Weekly Contributor Leaderboard
+
+on:
+  schedule:
+    - cron: "0 0 * * 1" # Every Monday
+  workflow_dispatch:
+
+jobs:
+  leaderboard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate weekly leaderboard
+        run: |
+          echo "### 🔥 Top Contributors (Last 7 Days)" > weekly.md
+          git shortlog -sn --since="7 days ago" >> weekly.md
+
+      - name: Update README
+        run: |
+          awk '/<!-- WEEKLY_LEADERBOARD_START -->/{print;system("cat weekly.md");f=1} \
+          /<!-- WEEKLY_LEADERBOARD_END -->/{f=0} !f' README.md > temp.md
+          mv temp.md README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git commit -am "Update weekly contributor leaderboard" || true
+          git push
