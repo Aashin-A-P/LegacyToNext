@@ -30,34 +30,9 @@ This is a **joint initiative** where senior guides juniors by:
 - Prepare juniors for **placements & internships**
 
 ---
+👉 https://github.com/Aashin-A-P/LegacyToNext/graphs/contributors
 
-## 📚 Learning Roadmap
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Aashin-A-P/LegacyToNext)
 
-### 🐍 Python Fundamentals
-- Variables & Data Types
-- Control Flow
-- Functions
-- OOP Concepts
-- File Handling
-- Exception Handling
-
-### 🧠 Data Structures
-- Arrays & Strings
-- Linked Lists
-- Stacks & Queues
-- Trees & Graphs
-- Hashing
-- Heaps
-
-### ⚙️ Algorithms
-- Sorting & Searching
-- Recursion & Backtracking
-- Greedy Algorithms
-- Dynamic Programming
-- Graph Algorithms
-
-## 🏆 Weekly Top Contributors
-
-<!-- WEEKLY_LEADERBOARD_START -->
-<!-- WEEKLY_LEADERBOARD_END -->
+![GitHub commits](https://img.shields.io/github/commit-activity/y/Aashin-A-P/LegacyToNext)
 
