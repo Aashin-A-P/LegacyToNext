@@ -10,3 +10,4 @@ for i in range(n,0,-2):
     space=' '*b
     print(space+'*'*i)
     b+=1
+
