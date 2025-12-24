@@ -1,0 +1,6 @@
+
+from datetime import datetime
+date_str=input()
+date_obj = datetime.strptime(date_str, "%m %d %Y")
+day_name=date_obj.strftime("%A")
+print(day_name.upper())
